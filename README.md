@@ -10,8 +10,8 @@ This project analyzes monthly sales trends by calculating revenue and order volu
 
 💻 Skills Demonstrated
 Skill	Example
-Aggregations	SUM(), COUNT(DISTINCT)
-Date Handling	YEAR(), MONTH()
-Filtering	WHERE with date ranges
-Sorting	ORDER BY multiple columns
-Result Limiting	LIMIT clause
+1.Aggregations	SUM(), COUNT(DISTINCT)
+2.Date Handling	YEAR(), MONTH()
+3.Filtering	WHERE with date ranges
+4.Sorting	ORDER BY multiple columns
+5.Result Limiting	LIMIT clause
